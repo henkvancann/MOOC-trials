@@ -40,9 +40,16 @@ Answer C. Is the correct answer. Answer A is dreadful, you might well lose your 
 
 Answer A. Is the correct one. Besides this, SeedTool does not run on Android for it does use the security properties of iOS.
 
-### It’s been a while since you last used Gordian Seed Tool App. Will the updated / new version of Seed Tool still work for the shares you’d like to recollect and to restore the seed with those shares in this new version of Seed Tool?
+### It’s been a while since you last used Gordian Seed Tool App. Will the updated / new version of Seed Tool still work for old shares?
+You’d like to recollect and restore the seed with those shares in this new version of Seed Tool.
 - A. Yes, even a new version will work for shares created by an old version of Seed Tool.
 - B. No, a new version will NOT work for shares created by an old version of Seed Tool. You need to use the original version of SeedTool that you’ve created the shares with.
 - C. Yes, both a new version and an old version of SeedTool will work for shares created by an old version of SeedTool.
 - D. Yes, it’s even better: an old version of Seed Tool will restore a seed from shares created by a new version of Seed Tool!
-Answer C is correct.
+Answer C is the most appropriate.
+
+### Archived from Gordian Seed Tool means:
+- A. You can’t use the active Gordian Seed Tool app in a stand-alone way from this point in time.
+- B. You can use both the active Gordian Seed Tool app and the shared from the M of N sharding back-up in ANY OTHER Seed Tool app.
+- C. You can use both the active Gordian Seed Tool app and the shared from the M of N sharding back-up in the ORIGINAL Seed Tool app install on just only this device.
+Correct answer <Wolf?>
