@@ -11,7 +11,11 @@ Key management is key to asset security. We'd like the people in the world to se
 
 These example questions are not easy questions. An exam like this, or test of you wish, is somewhere far down the road of a student that has already passed many tests before. It's kind of contradictory but the first questionaires, the one students will be confronted with the earliest, are the most delicate to make. The easiest part for us, is the creation of complex on-topic questions, that students will have to study and pass further down the road.
 
-Why are the easiest exams to pass the most delicate? Because 98% of the MOOC students will only see the first three lessons and exams. So therefore we'll stick to complex questions at the beginning, for they a low-hanging fruit in the language of crypto-key management experts.
+Why are the easiest exams to pass the most delicate? Because 98% of the MOOC students will only see the first three lessons and exams. The abortion rate will be high. 
+So therefore we'll stick to **complex** questions at the beginning, for they are low-hanging fruit for us and more matching with the language of crypto-key management experts.
+
+#### SeedTool (BCC) and Keep (KERI)
+SeedTool adds key management functionality to what Keep in KERI currently (March 2022) offers. The sample questions created from the SeedTool experience therefore are also a way to explore the possibilties of a combination of the two tools.
 
 ## Objective
 I would like to start this project among Jasmina, Kor and myself. My idea: 
