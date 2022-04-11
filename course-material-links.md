@@ -31,6 +31,7 @@ Topics covered:
 - Open Source & The Future of Self-Sovereign Identity https://vimeo.com/480893732?width=640&height=480
 - The future of SSI https://youtu.be/mx58bYHFrFk
 - Decentralized Identity & Government: What it means for individuals, enterprises, and governments https://www.evernym.com/government-webinar/
+
 Learning goal: pick three webinars and Google the unknown terms to complete the picture \
 Time: 300 minutes \
 Input: \
