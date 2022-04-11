@@ -5,7 +5,7 @@ How to set up a crypto wallet (video tutorial) https://www.coinbase.com/learn/ti
 Topics covered: hosted wallet, cold store, hot wallet \
 Learning goal: Try to discover the type of wallet the site is biased towards. And give your own opinion on all three types shown. \
 Time: 15-30 minutes \
-Input: none
+Input: none \
 Output: main types of wallets known.
 
 ## General Cryptography
@@ -19,6 +19,7 @@ Modern cryptography
 - Cryptanalysis
 - Cryptographic primitives
 - Cryptosystems
+
 Learning goal: Master basics \
 Time: 120 minutes \
 Input: Glossary and definition master 20 most important terms \
